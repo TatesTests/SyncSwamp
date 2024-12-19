@@ -1,0 +1,2 @@
+commit_templates:
+  - template_string: '{message}'
