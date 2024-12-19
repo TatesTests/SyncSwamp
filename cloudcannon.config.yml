@@ -1,2 +1,2 @@
 commit_templates:
-  - {message}
+  - template_string: {message}
