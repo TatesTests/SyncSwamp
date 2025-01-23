@@ -1,0 +1,3 @@
+echo $SYNC_PATHS
+echo $RANDOM >> sync-path.txt
+ls
